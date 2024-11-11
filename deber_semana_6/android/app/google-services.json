@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543159736375",
+    "project_id": "deber-9ab77",
+    "storage_bucket": "deber-9ab77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543159736375:android:86064863c3a32be9b707b2",
+        "android_client_info": {
+          "package_name": "com.deber.semana6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1aj_bkGfnEBEqT4PpDhSNjwSSTF_9oWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

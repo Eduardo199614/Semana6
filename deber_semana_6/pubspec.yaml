@@ -1,0 +1,37 @@
+name: deber_semana_6
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^2.15.0  # Cambia esta a la versión más reciente
+  firebase_auth: ^4.9.0  # Cambia esta a la versión más reciente
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
